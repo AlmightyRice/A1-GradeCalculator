@@ -6,4 +6,4 @@ midterm_2 = float(input("Enter Midterm 1 Percentage: "))
 quizzes = float(input("Enter Quizz Percentage: "))
 Ebook = float(input("Enter Ebook Percentage: "))
 Participation = float(input(" Enter Participation Percentage: "))
-
+#New function
