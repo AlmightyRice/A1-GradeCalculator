@@ -14,3 +14,4 @@ add_up = Assignments +Midterm_1 + Midterm_2 + Quizzes +Ebook +Participation
 final_score = add_up/100
 print(final_score)
 print( name + " This is your final score " + str(final_score))
+# New input test
